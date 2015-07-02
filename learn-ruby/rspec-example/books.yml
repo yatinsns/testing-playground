@@ -1,0 +1,13 @@
+---
+- !ruby/object:Book
+  title: 'Javascript: The Good Parts'
+  author: Douglas Crockford
+  category: :development
+- !ruby/object:Book
+  title: Designing with Web standards
+  author: Jeffery Zeldman
+  category: :design
+- !ruby/object:Book
+  title: Javascript patterns
+  author: Stoyan Stefanov
+  category: :development
